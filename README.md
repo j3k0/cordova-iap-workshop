@@ -27,3 +27,12 @@ from the AppStore.
  * [video](https://youtu.be/w92Uyz7R8Zw)
  * [sourcecode](https://github.com/j3k0/cordova-iap-workshop/tree/master/01-store)
 
+
+## Make a Purchase
+
+In this episode, we will see how to make a purchase: initiate it from with the
+store.order() method, finalize the transaction and check the ownership status
+of the product.
+
+ * [video](https://youtu.be/58okUVHUZEw)
+ * [sourcecode](https://github.com/j3k0/cordova-iap-workshop/tree/master/02-order)
