@@ -36,3 +36,13 @@ of the product.
 
  * [video](https://youtu.be/58okUVHUZEw)
  * [sourcecode](https://github.com/j3k0/cordova-iap-workshop/tree/master/02-order)
+
+## Subscription Status
+
+In this episode, we fetch and display the information about the user's active
+subscription in the Account screen. To do so, we activate receipt validation
+using Fovea's service: https://billing.fovea.cc
+
+ * [video](https://youtu.be/PdWt2-GsO-o)
+ * [sourcecode](https://github.com/j3k0/cordova-iap-workshop/tree/master/03-account)
+
