@@ -46,3 +46,10 @@ using Fovea's service: https://billing.fovea.cc
  * [video](https://youtu.be/PdWt2-GsO-o)
  * [sourcecode](https://github.com/j3k0/cordova-iap-workshop/tree/master/03-account)
 
+## Restore Purchases
+
+In this episode, we implement the "Restore Purchases" button.
+
+ * [video](https://youtu.be/232U0KErazQ)
+ * [sourcecode](https://github.com/j3k0/cordova-iap-workshop/tree/master/04-account)
+
